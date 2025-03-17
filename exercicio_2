@@ -12,3 +12,4 @@ alert(segundanota);
 alert(terceiranota);
 
 alert ((primeiranota + segundanota + terceiranota)/3); 
+alert("sua media e" + (primeiranota + segundanota + terceiranota) /3 ); 
