@@ -1,0 +1,14 @@
+var primeiranota= number (prompt("digite a primeiranota"));
+
+var segundanota= number (prompt("digite a segundanota"));
+
+var terceiranota= number (prompt("digite a terceiranota "));
+
+
+
+alert("voce digitou");
+alert(primeiranota);
+alert(segundanota);
+alert(terceiranota);
+
+alert ((primeiranota + segundanota + terceiranota)/3); 
