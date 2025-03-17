@@ -1,15 +1,15 @@
-var primeiranota= number (prompt("digite a primeiranota"));
+alert("programa para saber se voce passou de ano")
 
-var segundanota= number (prompt("digite a segundanota"));
-
-var terceiranota= number (prompt("digite a terceiranota "));
-
+var primeiranota = Number (prompt ("Digite nota do primeiro trismestre") );
+console.log(primeiranota)
 
 
-alert("voce digitou");
-alert(primeiranota);
-alert(segundanota);
-alert(terceiranota);
+var segundanota = Number (prompt("Digite nota do segundo trimestre") );
+console.log(segundanota)
 
-alert ((primeiranota + segundanota + terceiranota)/3); 
+var terceiranota = Number (prompt("Digite nota do terceira trimestre") );
+console.log(terceiranota)
+
+console.log(   (  primeiranota + segundanota + terceiranota ) /3 );
+
 alert("sua media e" + (primeiranota + segundanota + terceiranota) /3 ); 
