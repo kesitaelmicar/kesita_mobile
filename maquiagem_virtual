@@ -1,0 +1,9 @@
+var maquiagem = prompt("Digite o nome da maquiagem");
+
+console.log(maquiagem);
+
+var marca = prompt("Digite o nome da marca");
+
+console.log(marca)
+
+alert("maquiagem da " + marca);
